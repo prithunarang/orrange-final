@@ -1,7 +1,7 @@
 # orange-commerce
 
 ## Hosted on Vercel
--https://orrange-final.vercel.app/products/bags
+-https://orrange-final.vercel.app/
 
 ## how to run
 - run `npm run start:app` and `npm run start:api` in two separate terminals
